@@ -24,7 +24,7 @@ offering users a rich and interactive experience for trip planning and explorati
 ## Tech Stack
 
 - **React Native:** Build powerful cross-platform mobile apps with the popular React Native framework.
-
+- **Node js:** Backend Integration and for working with APIs.
 - **Expo:** Rapidly develop, iterate, and deploy React Native applications with Expo's development tools.
 
 - **NativeWind:** Enhance the styling of your app with NativeWind for a sleek and native-like appearance.
